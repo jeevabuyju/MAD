@@ -1,0 +1,4 @@
+com/example/emailapp/MainActivity.java
+ com.example.emailapp.MainActivity
+com/example/emailapp/BuildConfig.java
+ com.example.emailapp.BuildConfig
