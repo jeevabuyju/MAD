@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sqlDB</string>
+    <string name="usn">USN</string>
+    <string name="name">NAME</string>
+    <string name="mail">EMAIL</string>
+    <string name="phone">PHONE</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="search">SEARCH</string>
+    <string name="clear">CLEAR</string>
+</resources>
