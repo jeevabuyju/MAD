@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">FileHandling</string>
+    <string name="data" translatable="false">Enter Data to Save</string>
+    <string name="display" translatable="false">DISPLAY</string>
+    <string name="save" translatable="false">SAVE</string>
+</resources>
