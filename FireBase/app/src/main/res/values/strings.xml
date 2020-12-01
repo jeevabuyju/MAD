@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireBase</string>
+    <string name="submit">SUBMIT</string>
+    <string name="name">NAME</string>
+    <string name="mobile">MOBILE</string>
+    <string name="update">UPDATE</string>
+    <string name="save">SAVE</string>
+</resources>
